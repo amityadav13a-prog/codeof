@@ -180,7 +180,7 @@ while(ptr->next->data!=4)
 temp->next=ptr->next->next;
 free(ptr->next);
 ptr->next=temp->next;
-//printafter
+//printafterghfhhgff
 printf("the linklist is ");
     struct node*temp3=start;
     while(temp3!=NULL){
