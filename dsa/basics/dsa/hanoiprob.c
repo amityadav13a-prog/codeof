@@ -8,7 +8,7 @@ void TOH(int n,int a,int b,int c){
         count++;
         TOH(n-1,b,a,c);
     }
-}
+} 
 int main(){
     printf("enter the number of disk:");
     int n;
